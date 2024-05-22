@@ -20,7 +20,7 @@ Geçmiş sorulara dönülemeyecektir.
 
 Test bitiminde her soruya verilen yanıt ile doğru ve yanlış sayıları kullanıcı ile paylaşılacaktır.
 
-Canli Site Icin : https://question-app-patika.vercel.app/
+Canli Site Icin : https://question-app-theta.vercel.app/
 
 <img width="1437" alt="Ekran Resmi 2024-05-21 16 37 03" src="https://github.com/tugberksavas/Question-App-Patika/assets/111705123/61025820-d996-4213-9df9-11f50fedbe03">
 <img width="718" alt="Ekran Resmi 2024-05-21 16 37 24" src="https://github.com/tugberksavas/Question-App-Patika/assets/111705123/4e63f473-c1af-4b39-b236-96454189a318">
